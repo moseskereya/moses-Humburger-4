@@ -1,0 +1,142 @@
+.container2 {
+    background-image:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("./images/bar-bistro-cafeteria-2067552.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+    height:700px;
+}
+#services{
+    background-color:rgb(207, 16, 16);
+    color:white;
+    width: 100%;
+}
+.ab-content-inner img{
+border-radius: 120px;
+}
+.ab-content-inner h4{
+    color:orange;
+    font-size: 20px;
+}
+.middile-inner-con{
+    padding: 10px 40px;
+
+}
+.tab-wrap img{
+    border-radius: 120px;
+}
+#order{
+    background-color: rgb(194, 194, 42);
+    height: 500px;
+    width: 100%;
+}
+#order span{
+    color:red;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#order h4{
+  color:#fff;
+ font-size: 50px;
+}
+#order a{
+    padding:10px 40px;
+    text-decoration: none;
+    background-color: red;
+    color:white;
+}
+.moses{
+    padding:10px 40px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: red;
+    color: orange;
+    margin: 10px;
+    font-size: 20px;
+}
+.moses:hover{
+    text-decoration: none;
+    color:#fff;
+}
+#testimonials{
+background-image:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url("./images/mose3.jpg");
+background-position: center;
+background-size: cover;
+background-repeat:no-repeat;
+background-attachment: fixed;
+padding-top: 50px;
+padding-bottom: 50px;
+height: 60vh;
+}
+.ab-info-con p{
+    color:red;
+    font-size: 18px;
+}
+.testimonials .fa{
+    display:inline-block;
+    flex-direction: column;
+    color:#fff;
+
+}
+.testimonials h3{
+color:orange;
+}
+.testimonials p{
+    color:#fff;
+    font-size: 20px;
+}
+.footer-content{
+    background-image:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url(./images/moe.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+    color:orange
+}
+#center h3{
+color:orange;
+padding:20px;
+margin:20px;
+}
+#center{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:#fff;
+}
+#center a{
+    padding:10px 40px;
+    text-decoration:none;
+    color:orange;
+    background-color:red;
+    margin: 20px;
+}
+.btn {
+    padding:5px 40px;
+    color:orange;
+    background-color:red;
+}
+.icons ul li{
+    color:white;
+}
+.social ul li{
+    display: none;
+    color: #fff;
+}
+.social li a{
+    display: flex;
+     color:#fff;
+     margin: 10px;
+}
+.carousel-item img{
+   height: auto;
+   display: block;
+   max-width: 100%;
+}
+#hello{
+    font-size:30px;
+    color: orange;
+
+}
